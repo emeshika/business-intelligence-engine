@@ -1,0 +1,101 @@
+id,candidate_name,applied_date,department,status,salary_expected
+1,Amara Silva,2026-01-18,Software Engineering,Hired,129732.0
+2,Hirushi Silva,2026-03-02,Data Science,Interview,60054.0
+3,Saman Silva,2026-01-07,HR,Rejected,95934.0
+4,Priya Silva,2026-02-03,HR,Rejected,149733.0
+5,Priya Silva,2026-01-06,Marketing,Pending,145739.0
+6,Sunil Fernando,2026-01-27,Finance,Hired,92851.0
+7,Saman Kumara,2026-01-21,Marketing,Pending,115634.0
+8,Hirushi Fernando,2026-02-14,Marketing,Rejected,58658.0
+9,Nimal Kumara,2026-01-25,Data Science,Rejected,75239.0
+10,Kavindi Kumara,,HR,Under Review,104858.0
+11,Kavindi Perera,2026-01-19,Software Engineering,Interview,68806.0
+12,Hirushi Silva,2026-01-18,Data Science,Pending,91159.0
+13,Priya Kumara,2026-02-18,Finance,Under Review,60922.0
+14,Amara Kumara,2026-02-09,Data Science,Rejected,124370.0
+15,Nilanthi Kumara,2026-01-28,Software Engineering,Interview,100173.29787234042
+16,Kavindi Perera,2026-02-03,Finance,Under Review,124826.0
+17,Amara Fernando,2026-02-13,Marketing,Rejected,142783.0
+18,Nilanthi Silva,2026-01-22,Software Engineering,Interview,130312.0
+19,Priya Perera,2026-01-17,Marketing,Pending,125269.0
+20,Saman Silva,,Data Science,Under Review,108410.0
+21,Deepika Fernando,2026-02-08,Finance,Under Review,61233.0
+22,Deepika Fernando,2026-02-11,Data Science,Interview,143084.0
+23,Amara Kumara,2026-01-22,HR,Hired,103755.0
+24,Nilanthi Perera,2026-01-11,Software Engineering,Pending,123614.0
+25,Priya Silva,2026-01-03,Data Science,Under Review,67041.0
+26,Sunil Silva,2026-01-05,Software Engineering,Rejected,86289.0
+27,Kavindi Kumara,2026-02-10,Data Science,Interview,76669.0
+28,Nimal Fernando,2026-01-07,Data Science,Interview,64725.0
+29,Sunil Perera,2026-01-25,Finance,Under Review,81335.0
+30,Saman Kumara,,Data Science,Interview,100173.29787234042
+31,Kavindi Fernando,2026-02-05,HR,Pending,52234.0
+32,Priya Perera,2026-01-11,Data Science,Interview,81651.0
+33,Deepika Kumara,2026-02-11,Finance,Pending,134916.0
+34,Nimal Perera,2026-01-16,Marketing,Hired,57889.0
+35,Sunil Fernando,2026-01-08,Software Engineering,Under Review,121159.0
+36,Nilanthi Silva,2026-02-05,Finance,Hired,76870.0
+37,Arjun Silva,2026-01-27,Data Science,Under Review,115884.0
+38,Saman Perera,2026-02-24,HR,Interview,98128.0
+39,Sunil Perera,2026-01-30,Finance,Interview,101894.0
+40,Priya Perera,,Finance,Under Review,144963.0
+41,Hirushi Perera,2026-01-08,HR,Pending,90866.0
+42,Kavindi Kumara,2026-01-22,Data Science,Pending,84224.0
+43,Hirushi Fernando,2026-02-12,Data Science,Under Review,115649.0
+44,Amara Silva,2026-02-13,Data Science,Interview,106905.0
+45,Saman Kumara,2026-02-15,HR,Pending,100173.29787234042
+46,Saman Kumara,2026-01-15,Finance,Interview,116046.0
+47,Nilanthi Perera,2026-01-22,Data Science,Under Review,102084.0
+48,Sunil Perera,2026-02-24,Data Science,Hired,113312.0
+49,Arjun Kumara,2026-02-15,HR,Rejected,144937.0
+50,Sunil Fernando,,Data Science,Pending,85208.0
+51,Nimal Silva,2026-01-04,Marketing,Rejected,133174.0
+52,Amara Kumara,2026-01-20,HR,Hired,130532.0
+53,Saman Perera,2026-02-07,Data Science,Rejected,115837.0
+54,Arjun Fernando,2026-02-18,HR,Under Review,59129.0
+55,Amara Kumara,2026-01-14,Software Engineering,Pending,114324.0
+56,Priya Perera,2026-02-10,Finance,Rejected,148213.0
+57,Kavindi Silva,2026-01-22,HR,Pending,91474.0
+58,Hirushi Fernando,2026-02-19,Data Science,Under Review,123243.0
+59,Nilanthi Fernando,2026-02-04,Marketing,Rejected,79571.0
+60,Saman Fernando,,Data Science,Rejected,100173.29787234042
+61,Sunil Fernando,2026-01-02,Finance,Pending,90661.0
+62,Nilanthi Kumara,2026-02-13,Finance,Hired,77008.0
+63,Nilanthi Perera,2026-02-19,Data Science,Interview,75679.0
+64,Sunil Kumara,2026-01-09,Data Science,Under Review,127954.0
+65,Hirushi Perera,2026-01-22,Finance,Pending,117168.0
+66,Sunil Fernando,2026-02-27,Marketing,Interview,147007.0
+67,Nilanthi Kumara,2026-01-25,HR,Pending,104186.0
+68,Amara Perera,2026-01-31,Finance,Rejected,53113.0
+69,Arjun Perera,2026-02-10,Finance,Pending,90004.0
+70,Arjun Fernando,,Software Engineering,Pending,142627.0
+71,Priya Silva,2026-01-01,HR,Hired,106350.0
+72,Arjun Fernando,2026-01-26,HR,Rejected,105719.0
+73,Sunil Silva,2026-02-21,HR,Interview,73675.0
+74,Arjun Silva,2026-01-13,HR,Pending,139338.0
+75,Sunil Silva,2026-02-21,Software Engineering,Pending,100173.29787234042
+76,Kavindi Fernando,2026-02-07,Software Engineering,Interview,52779.0
+77,Sunil Kumara,2026-02-18,Marketing,Under Review,55175.0
+78,Arjun Silva,2026-01-12,Finance,Under Review,139464.0
+79,Deepika Fernando,2026-02-12,HR,Pending,80609.0
+80,Saman Kumara,,Marketing,Under Review,131664.0
+81,Deepika Kumara,2026-01-31,Marketing,Interview,80965.0
+82,Nilanthi Fernando,2026-01-04,Finance,Under Review,60737.0
+83,Deepika Perera,2026-02-18,Finance,Hired,133940.0
+84,Nimal Kumara,2026-02-23,HR,Under Review,77974.0
+85,Nimal Silva,2026-02-01,Software Engineering,Under Review,50270.0
+86,Amara Silva,2026-01-08,HR,Rejected,90335.0
+87,Sunil Fernando,2026-01-01,Marketing,Under Review,115026.0
+88,Deepika Silva,2026-01-03,Data Science,Rejected,53222.0
+89,Priya Fernando,2026-01-27,Marketing,Rejected,112670.0
+90,Saman Perera,,Marketing,Interview,100173.29787234042
+91,Amara Kumara,2026-02-17,Software Engineering,Pending,134835.0
+92,Kavindi Kumara,2026-01-12,Data Science,Interview,99254.0
+93,Arjun Fernando,2026-01-03,Data Science,Hired,62870.0
+94,Nimal Fernando,2026-02-20,Software Engineering,Pending,143380.0
+95,Priya Perera,2026-01-06,Marketing,Under Review,101441.0
+96,Nimal Silva,2026-02-25,Software Engineering,Hired,109156.0
+97,Nimal Silva,2026-01-22,Data Science,Pending,126813.0
+98,Sunil Fernando,2026-02-02,Finance,Pending,63559.0
+99,Deepika Fernando,2026-02-11,Data Science,Under Review,72018.0
+100,Saman Fernando,,Software Engineering,Pending,64295.0
